@@ -1,2 +1,2 @@
 # css-parallax
-https://krevetkaoo.github.io/css-paralax/
+https://krevetkaoo.github.io/css-parallax/
